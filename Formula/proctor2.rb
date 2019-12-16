@@ -9,10 +9,10 @@ class Proctor < Formula
   bottle :unneeded
 
   def install
-    bin.install "proctor"
+    bin.install "proctor2"
   end
 
   test do
-    system "#{bin}/proctor", "--help"
+    system "#{bin}/proctor2", "--help"
   end
 end

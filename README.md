@@ -6,4 +6,4 @@ Homebrew Formulas for Gopay OpenSource Tools
 
 * Install [Homebrew](https://docs.brew.sh/Installation)
 * `brew tap gopaytech/tap`
-* `brew install proctor`
+* `brew install proctor2`
