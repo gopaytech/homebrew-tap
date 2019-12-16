@@ -1,5 +1,5 @@
-class Proctor < Formula
-  desc "Proctor CLI"
+class Proctor2 < Formula
+  desc "Proctor v2 CLI"
   homepage "https://github.com/gopaytech/proctor"
   url "https://github.com/gopaytech/proctor/releases/download/v2.0.1/proctor_2.0.1_Darwin_x86_64.tar.gz"
   version "2.0.1"
