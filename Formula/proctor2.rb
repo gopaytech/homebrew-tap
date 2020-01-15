@@ -1,9 +1,9 @@
 class Proctor2 < Formula
   desc "Proctor v2 CLI"
   homepage "https://github.com/gopaytech/proctor"
-  url "https://github.com/gopaytech/proctor/releases/download/v2.0.5/proctor_2.0.5_Darwin_x86_64.tar.gz"
-  version "2.0.5"
-  sha256 "6ebae17c76828051a02f4b0e7cff406fa791c3255fa1a5963ad5ab1257ae05bd"
+  url "https://github.com/gopaytech/proctor/releases/download/v2.0.6/proctor_2.0.6_Darwin_x86_64.tar.gz"
+  version "2.0.6"
+  sha256 "2fc37cc10d255de60a2bb003109a0e6dc3d848e1c7a173bf6ac01b38cf1add05"
   head "https://github.com/gopaytech/proctor.git"
 
   bottle :unneeded
